@@ -1,6 +1,6 @@
 ---
 ---
 
-Geology of Ham Hill - Bibliography
+Robert Chandler - Bibliography
 
 {% bibliography --file chandler %}
